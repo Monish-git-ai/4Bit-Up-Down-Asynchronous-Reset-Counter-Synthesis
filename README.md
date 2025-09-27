@@ -67,10 +67,16 @@ used.
 <img width="1920" height="1080" alt="Screenshot 2025-09-15 092330" src="https://github.com/user-attachments/assets/f10ecc82-a830-44d9-9869-f0a8c3d743c8" />
 
 #### Area report:
+<img width="923" height="495" alt="image" src="https://github.com/user-attachments/assets/80e3ebc9-2149-483a-8cbc-8c4c3b79cb16" />
+
 
 #### Power Report:
+<img width="902" height="483" alt="image" src="https://github.com/user-attachments/assets/7efbb0a6-4772-4d4e-81e4-4c0f7f80bb27" />
+
 
 #### Timing Report: 
+<img width="1028" height="534" alt="image" src="https://github.com/user-attachments/assets/42892b80-14b7-4723-95b4-f0f12fb43de4" />
+
 
 #### Result: 
 
